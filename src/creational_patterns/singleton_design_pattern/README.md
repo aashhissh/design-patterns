@@ -36,3 +36,25 @@ In such case, we create the instance of the class at the time of declaring the s
      }
     }
 
+## Understanding lazy Instantiation of Singleton Pattern
+In such case, we create the instance of the class in synchronized method or synchronized block, so instance of the class is created when required.
+
+    class A{
+     private static A obj;
+     private A(){}
+
+     public static A getA(){
+       if (obj == null){
+          synchronized(Singleton.class){
+            if (obj == null){
+                obj = new Singleton();//instance will be created at request time
+            }
+          }
+       }
+       return obj;
+     }
+
+     public void doSomething(){
+      //write your code
+     }
+    }
