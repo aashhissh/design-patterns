@@ -13,3 +13,26 @@
 
 ## Usage of Singleton design pattern
 * Singleton pattern is mostly used in multi-threaded and database applications. It is used in logging, caching, thread pools, configuration settings etc.
+
+## How to create Singleton design pattern?
+To create the singleton class, we need to have static member of class, private constructor and static factory method.
+* **Static member**: It gets memory only once because of static, itcontains the instance of the Singleton class.
+* **Private constructor**: It will prevent to instantiate the Singleton class from outside the class.
+* **Static factory method**: This provides the global point of access to the Singleton object and returns the instance to the caller.
+
+## Understanding early Instantiation of Singleton Pattern
+In such case, we create the instance of the class at the time of declaring the static data member, so instance of the class is created at the time of classloading.
+
+    class A {
+     private static A obj=new A();//Early, instance will be created at load time
+     private A(){}
+
+     public static A getA(){
+      return obj;
+     }
+
+     public void doSomething(){
+     //write your code
+     }
+    }
+
