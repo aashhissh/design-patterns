@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="401c7991-5f14-495b-a0e5-e01909ef46a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/cd/BuilderDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/cd/CD.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/cd/CDBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/cd/CDType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/cd/Company.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/cd/Packing.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/cd/Samsung.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/cd/Sony.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/BuilderDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/Item.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/OrderBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/OrderedItems.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/cold_drink/ColdDrink.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/cold_drink/coke/Coke.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/cold_drink/coke/LargeCoke.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/cold_drink/coke/MediumCoke.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/cold_drink/coke/SmallCoke.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/cold_drink/pepsi/LargePepsi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/cold_drink/pepsi/MediumPepsi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/cold_drink/pepsi/Pepsi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/cold_drink/pepsi/SmallPepsi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/Pizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/non_veg/ExtraLargeNonVegPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/non_veg/LargeNonVegPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/non_veg/MediumNonVegPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/non_veg/NonVegPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/non_veg/SmallNonVegPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/VegPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/cheese/ExtraLargeCheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/cheese/LargeCheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/cheese/MediumCheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/cheese/SmallCheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/masala/ExtraLargeMasalaPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/masala/LargeMasalaPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/masala/MediumMasalaPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/masala/SmallMasalaPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/onion/ExtraLargeOnionPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/onion/LargeOnionPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/onion/MediumOnionPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/onion/SmallOnionPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/creational_patterns/object_pool_pattern/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -55,40 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LargeOnionPizza.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/onion/LargeOnionPizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#394#395#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MediumOnionPizza.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/onion/MediumOnionPizza.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#355#356#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SmallOnionPizza.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/onion/SmallOnionPizza.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -129,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderBuilder.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OrderBuilder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/OrderBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
@@ -137,6 +63,26 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/creational_patterns/object_pool_pattern/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -195,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/creational_patterns/singleton_design_pattern/JDBCSingletonDemo.java" />
         <option value="$PROJECT_DIR$/src/creational_patterns/prototype_design_pattern/README.md" />
         <option value="$PROJECT_DIR$/src/creational_patterns/prototype_design_pattern/Prototype.java" />
         <option value="$PROJECT_DIR$/src/creational_patterns/prototype_design_pattern/EmployeeRecord.java" />
@@ -246,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/pizza/veg/cheese/LargeMasalaPizza.java" />
         <option value="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/OrderBuilder.java" />
         <option value="$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/pizza_hut/BuilderDemo.java" />
+        <option value="$PROJECT_DIR$/src/creational_patterns/object_pool_pattern/README.md" />
       </list>
     </option>
   </component>
@@ -295,15 +241,7 @@
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="creational_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="builder_design_pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="pizza_hut" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="creational_patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype_design_pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="object_pool_pattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -560,6 +498,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -570,11 +509,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -608,16 +547,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/creational_patterns/abstract_factory_pattern/AbstractFactoryPatternExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/creational_patterns/singleton_design_pattern/JDBCSingleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -688,14 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="88" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1128,6 +1049,22 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creational_patterns/builder_design_pattern/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/creational_patterns/object_pool_pattern/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
